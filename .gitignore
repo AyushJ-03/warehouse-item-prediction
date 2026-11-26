@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# Environment files
+.env
+venv/
+env/
+.venv/
+
+# Logs
+*.log
+lightning_logs/
+
+# Temporary files
+*.tmp
+.pytest_cache/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OS-specific files
+Thumbs.db
